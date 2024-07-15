@@ -1,0 +1,1 @@
+# mvn-image-ascii
